@@ -1,0 +1,26 @@
+{
+  "title": "BasicSpeedDial Material Demo",
+  "name": "mui-speed-dial",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "",
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/icons-material": "latest",
+    "@mui/material": "latest",
+    "@mui/styles": "5.2.3",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-router-dom": "6.2.1"
+  },
+  "keywords": [],
+  "version": "0.0.4",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
